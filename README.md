@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Kirill Zhukov! 👋
+### I started to learn Python at December 2024. I’m currently learning Python. At the moment, I know the basics of Python and Git. 
+#### I’m currently working on a thesis where I use Python to model a sparse antenna array with a random arrangement of elements.
 
 <!--
 **KirillSZ21203/KirillSZ21203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
